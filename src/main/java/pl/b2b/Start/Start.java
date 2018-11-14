@@ -48,8 +48,6 @@ public class Start {
     }
 
     public int ageNameSurname(int age, String nameSurname){
-         age = 20;
-        nameSurname = " pablito Kowalski";
         return Integer.parseInt(age + nameSurname);
     }
 }

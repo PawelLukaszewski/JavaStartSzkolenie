@@ -4,6 +4,8 @@
     <list default="true" id="15424ea1-4967-4e53-9264-5bd62e9dd3ae" name="Default" comment="Initial commit!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pl/b2b/Start/Start.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/b2b/Start/Start.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/b2b/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/b2b/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pl/b2b/StartTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pl/b2b/StartTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -35,13 +37,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="724" />
+          <entry key="java" value="780" />
           <entry key="txt" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="724" />
+          <entry key="JAVA" value="780" />
           <entry key="PLAIN_TEXT" value="15" />
         </counts>
       </usages-collector>
@@ -64,14 +66,14 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/pl/b2b/Start/Start.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
-              <caret line="50" column="15" selection-start-line="50" selection-start-column="15" selection-end-line="50" selection-end-column="15" />
+            <state relative-caret-position="260">
+              <caret line="49" column="59" selection-start-line="49" selection-start-column="59" selection-end-line="49" selection-end-column="59" />
               <folding>
                 <element signature="e#122#123#0" expanded="true" />
                 <element signature="e#149#150#0" expanded="true" />
                 <element signature="e#292#293#0" expanded="true" />
                 <element signature="e#328#329#0" expanded="true" />
-                <element signature="e#971#972#0" expanded="true" />
+                <element signature="e#1029#1030#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -185,7 +187,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542200333344" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542200437887" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="ignore_missing_gitignore" value="true" />
@@ -333,7 +335,14 @@
       <option name="project" value="LOCAL" />
       <updated>1542199091239</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial commit!">
+      <created>1542200446028</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1542200446028</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -430,14 +439,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/b2b/Start/Start.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="50" column="15" selection-start-line="50" selection-start-column="15" selection-end-line="50" selection-end-column="15" />
+        <state relative-caret-position="260">
+          <caret line="49" column="59" selection-start-line="49" selection-start-column="59" selection-end-line="49" selection-end-column="59" />
           <folding>
             <element signature="e#122#123#0" expanded="true" />
             <element signature="e#149#150#0" expanded="true" />
             <element signature="e#292#293#0" expanded="true" />
             <element signature="e#328#329#0" expanded="true" />
-            <element signature="e#971#972#0" expanded="true" />
+            <element signature="e#1029#1030#0" expanded="true" />
           </folding>
         </state>
       </provider>
