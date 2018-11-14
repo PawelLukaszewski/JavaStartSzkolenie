@@ -6,8 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="JavaStartB2B" />
         <module name="javaStartB2B" />
+        <module name="JavaStartB2B" />
+        <module name="JavaStartSzkolenie" />
       </profile>
     </annotationProcessing>
   </component>
