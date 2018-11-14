@@ -16,7 +16,7 @@ public class Start {
 
 
     public String getNameAndSurname(String name, String surname) {
-        return name + surname;
+        return name + " " + surname;
     }
 
     public int plus(int first, int second) {
@@ -27,27 +27,21 @@ public class Start {
     }
 
    public int minus(int first, int second){
-        int minus = 0;
-        minus -= first;
-        second -= second;
-        return minus;
+        first -= second;
+        return first;
    }
 
    public int multiplication(int first, int second){
-        int multi = 0;
-        multi /= first;
-        multi /= second;
-        return multi;
+        first *= second;
+        return first;
    }
 
     public int division(int first, int second){
-        int divi = 0;
-        divi /= first;
-        divi /= second;
-        return divi;
+        first /= second;
+        return first;
     }
 
-    public int ageNameSurname(int age, String nameSurname){
-        return Integer.parseInt(age + nameSurname);
+    public String ageNameSurname(int age, String nameSurname){
+        return (age + " " + nameSurname);
     }
 }
